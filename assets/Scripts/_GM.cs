@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 
@@ -8,6 +8,7 @@ public class _GM : MonoBehaviour {
 	public static int Time = 40000;
 	public static int Lives;
 
+	public static int Super = 0;
 	public Text ScoreText;
 	public Text CoinsText;
 	public Text TimeText;
@@ -21,7 +22,6 @@ public class _GM : MonoBehaviour {
 		ScoreText.text = "" + Score.ToString ("000000");
 		if(Coins>=99){
 			Lives++;
-			Debug.Log(Lives);
 			Coins=0;
 		}
 		CoinsText.text = "X " + Coins.ToString ("00");

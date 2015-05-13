@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: ac5206fb56ab6d5489bb080b5c5a3020
+timeCreated: 1431531188
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Super Mario Bros - Items Objects (1)_0
+    21300002: NES - Super Mario Bros - Items Objects (1)_1
+    21300004: NES - Super Mario Bros - Items Objects (1)_2
+    21300006: NES - Super Mario Bros - Items Objects (1)_3
+    21300008: NES - Super Mario Bros - Items Objects (1)_4
+    21300010: NES - Super Mario Bros - Items Objects (1)_5
+    21300012: NES - Super Mario Bros - Items Objects (1)_6
+    21300014: NES - Super Mario Bros - Items Objects (1)_7
+    21300016: NES - Super Mario Bros - Items Objects (1)_8
+    21300018: NES - Super Mario Bros - Items Objects (1)_9
+    21300020: NES - Super Mario Bros - Items Objects (1)_10
+    21300022: NES - Super Mario Bros - Items Objects (1)_11
+    21300024: NES - Super Mario Bros - Items Objects (1)_12
+    21300026: NES - Super Mario Bros - Items Objects (1)_13
+    21300028: NES - Super Mario Bros - Items Objects (1)_14
+    21300030: NES - Super Mario Bros - Items Objects (1)_15
+    21300032: NES - Super Mario Bros - Items Objects (1)_16
+    21300034: NES - Super Mario Bros - Items Objects (1)_17
+    21300036: NES - Super Mario Bros - Items Objects (1)_18
+    21300038: NES - Super Mario Bros - Items Objects (1)_19
+    21300040: NES - Super Mario Bros - Items Objects (1)_20
+    21300042: NES - Super Mario Bros - Items Objects (1)_21
+    21300044: NES - Super Mario Bros - Items Objects (1)_22
+    21300046: NES - Super Mario Bros - Items Objects (1)_23
+    21300048: NES - Super Mario Bros - Items Objects (1)_24
+    21300050: NES - Super Mario Bros - Items Objects (1)_25
+    21300052: NES - Super Mario Bros - Items Objects (1)_26
+    21300054: NES - Super Mario Bros - Items Objects (1)_27
+    21300056: NES - Super Mario Bros - Items Objects (1)_28
+    21300058: NES - Super Mario Bros - Items Objects (1)_29
+    21300060: NES - Super Mario Bros - Items Objects (1)_30
+    21300062: NES - Super Mario Bros - Items Objects (1)_31
+    21300064: NES - Super Mario Bros - Items Objects (1)_32
+    21300066: NES - Super Mario Bros - Items Objects (1)_33
+    21300068: NES - Super Mario Bros - Items Objects (1)_34
+    21300070: NES - Super Mario Bros - Items Objects (1)_35
+    21300072: NES - Super Mario Bros - Items Objects (1)_36
+    21300074: NES - Super Mario Bros - Items Objects (1)_37
+    21300076: NES - Super Mario Bros - Items Objects (1)_38
+    21300078: NES - Super Mario Bros - Items Objects (1)_39
+    21300080: NES - Super Mario Bros - Items Objects (1)_40
+    21300082: NES - Super Mario Bros - Items Objects (1)_41
+    21300084: NES - Super Mario Bros - Items Objects (1)_42
+    21300086: NES - Super Mario Bros - Items Objects (1)_43
+    21300088: NES - Super Mario Bros - Items Objects (1)_44
+    21300090: NES - Super Mario Bros - Items Objects (1)_45
+    21300092: NES - Super Mario Bros - Items Objects (1)_46
+    21300094: NES - Super Mario Bros - Items Objects (1)_47
+    21300096: NES - Super Mario Bros - Items Objects (1)_48
+    21300098: NES - Super Mario Bros - Items Objects (1)_49
+    21300100: NES - Super Mario Bros - Items Objects (1)_50
+    21300102: NES - Super Mario Bros - Items Objects (1)_51
+    21300104: NES - Super Mario Bros - Items Objects (1)_52
+    21300106: NES - Super Mario Bros - Items Objects (1)_53
+    21300108: NES - Super Mario Bros - Items Objects (1)_54
+    21300110: NES - Super Mario Bros - Items Objects (1)_55
+    21300112: NES - Super Mario Bros - Items Objects (1)_56
+    21300114: NES - Super Mario Bros - Items Objects (1)_57
+    21300116: NES - Super Mario Bros - Items Objects (1)_58
+    21300118: NES - Super Mario Bros - Items Objects (1)_59
+    21300120: NES - Super Mario Bros - Items Objects (1)_60
+    21300122: NES - Super Mario Bros - Items Objects (1)_61
+    21300124: NES - Super Mario Bros - Items Objects (1)_62
+    21300126: NES - Super Mario Bros - Items Objects (1)_63
+    21300128: NES - Super Mario Bros - Items Objects (1)_64
+    21300130: NES - Super Mario Bros - Items Objects (1)_65
+    21300132: NES - Super Mario Bros - Items Objects (1)_66
+    21300134: NES - Super Mario Bros - Items Objects (1)_67
+    21300136: NES - Super Mario Bros - Items Objects (1)_68
+    21300138: NES - Super Mario Bros - Items Objects (1)_69
+    21300140: NES - Super Mario Bros - Items Objects (1)_70
+    21300142: NES - Super Mario Bros - Items Objects (1)_71
+    21300144: NES - Super Mario Bros - Items Objects (1)_72
+    21300146: NES - Super Mario Bros - Items Objects (1)_73
+    21300148: NES - Super Mario Bros - Items Objects (1)_74
+    21300150: NES - Super Mario Bros - Items Objects (1)_75
+    21300152: NES - Super Mario Bros - Items Objects (1)_76
+    21300154: NES - Super Mario Bros - Items Objects (1)_77
+    21300156: NES - Super Mario Bros - Items Objects (1)_78
+    21300158: NES - Super Mario Bros - Items Objects (1)_79
+    21300160: NES - Super Mario Bros - Items Objects (1)_80
+    21300162: NES - Super Mario Bros - Items Objects (1)_81
+    21300164: NES - Super Mario Bros - Items Objects (1)_82
+    21300166: NES - Super Mario Bros - Items Objects (1)_83
+    21300168: NES - Super Mario Bros - Items Objects (1)_84
+    21300170: NES - Super Mario Bros - Items Objects (1)_85
+    21300172: NES - Super Mario Bros - Items Objects (1)_86
+    21300174: NES - Super Mario Bros - Items Objects (1)_87
+    21300176: NES - Super Mario Bros - Items Objects (1)_88
+    21300178: NES - Super Mario Bros - Items Objects (1)_89
+    21300180: NES - Super Mario Bros - Items Objects (1)_90
+    21300182: NES - Super Mario Bros - Items Objects (1)_91
+    21300184: NES - Super Mario Bros - Items Objects (1)_92
+    21300186: NES - Super Mario Bros - Items Objects (1)_93
+    21300188: NES - Super Mario Bros - Items Objects (1)_94
+    21300190: NES - Super Mario Bros - Items Objects (1)_95
+    21300192: NES - Super Mario Bros - Items Objects (1)_96
+    21300194: NES - Super Mario Bros - Items Objects (1)_97
+    21300196: NES - Super Mario Bros - Items Objects (1)_98
+    21300198: NES - Super Mario Bros - Items Objects (1)_99
+    21300200: NES - Super Mario Bros - Items Objects (1)_100
+    21300202: NES - Super Mario Bros - Items Objects (1)_101
+    21300204: NES - Super Mario Bros - Items Objects (1)_102
+    21300206: NES - Super Mario Bros - Items Objects (1)_103
+    21300208: NES - Super Mario Bros - Items Objects (1)_104
+    21300210: NES - Super Mario Bros - Items Objects (1)_105
+    21300212: NES - Super Mario Bros - Items Objects (1)_106
+    21300214: NES - Super Mario Bros - Items Objects (1)_107
+    21300216: NES - Super Mario Bros - Items Objects (1)_108
+    21300218: NES - Super Mario Bros - Items Objects (1)_109
+    21300220: NES - Super Mario Bros - Items Objects (1)_110
+    21300222: NES - Super Mario Bros - Items Objects (1)_111
+    21300224: NES - Super Mario Bros - Items Objects (1)_112
+    21300226: NES - Super Mario Bros - Items Objects (1)_113
+    21300228: NES - Super Mario Bros - Items Objects (1)_114
+    21300230: NES - Super Mario Bros - Items Objects (1)_115
+    21300232: NES - Super Mario Bros - Items Objects (1)_116
+    21300234: NES - Super Mario Bros - Items Objects (1)_117
+    21300236: NES - Super Mario Bros - Items Objects (1)_118
+    21300238: NES - Super Mario Bros - Items Objects (1)_119
+    21300240: NES - Super Mario Bros - Items Objects (1)_120
+    21300242: NES - Super Mario Bros - Items Objects (1)_121
+    21300244: NES - Super Mario Bros - Items Objects (1)_122
+    21300246: NES - Super Mario Bros - Items Objects (1)_123
+    21300248: NES - Super Mario Bros - Items Objects (1)_124
+    21300250: NES - Super Mario Bros - Items Objects (1)_125
+    21300252: NES - Super Mario Bros - Items Objects (1)_126
+    21300254: NES - Super Mario Bros - Items Objects (1)_127
+    21300256: NES - Super Mario Bros - Items Objects (1)_128
+    21300258: NES - Super Mario Bros - Items Objects (1)_129
+    21300260: NES - Super Mario Bros - Items Objects (1)_130
+    21300262: NES - Super Mario Bros - Items Objects (1)_131
+    21300264: NES - Super Mario Bros - Items Objects (1)_132
+    21300266: NES - Super Mario Bros - Items Objects (1)_133
+    21300268: NES - Super Mario Bros - Items Objects (1)_134
+    21300270: NES - Super Mario Bros - Items Objects (1)_135
+    21300272: NES - Super Mario Bros - Items Objects (1)_136
+    21300274: NES - Super Mario Bros - Items Objects (1)_137
+    21300276: NES - Super Mario Bros - Items Objects (1)_138
+    21300278: NES - Super Mario Bros - Items Objects (1)_139
+    21300280: NES - Super Mario Bros - Items Objects (1)_140
+    21300282: NES - Super Mario Bros - Items Objects (1)_141
+    21300284: NES - Super Mario Bros - Items Objects (1)_142
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Super Mario Bros - Items Objects (1)_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 320
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 320
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 320
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 308
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 272
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_32
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_33
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 262
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 209
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 209
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 209
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 209
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_52
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 209
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 209
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_58
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 209
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_59
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 209
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_60
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 209
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_64
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_66
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_67
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_68
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_69
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 169
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 147
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_74
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_77
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_84
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 150
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_85
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_86
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 150
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_89
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_90
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_92
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 150
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_93
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_94
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_95
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_98
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_100
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_101
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 132
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_102
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 132
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_106
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_107
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 116
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_109
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_110
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 116
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_111
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_115
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 80
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_117
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 98
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_118
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 98
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_119
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 98
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_120
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 98
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_121
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 85
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_122
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 85
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_123
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 85
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_124
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 85
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_125
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 86
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 223
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_128
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_129
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 34
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 34
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_131
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_132
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 32
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_133
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 32
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_134
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 35
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_135
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Items Objects (1)_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
