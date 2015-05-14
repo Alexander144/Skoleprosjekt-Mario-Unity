@@ -36,7 +36,7 @@ public class MarioController : MonoBehaviour {
 			if(this.gameObject.transform.localScale.y == 6){
 				jumpForce = 30;
 			}
-			else{jumpForce = 20;}
+			else{jumpForce = 25;}
 			anim.SetBool("isGrounded", false);
 			rb.velocity = (new Vector2(rb.velocity.x,jumpForce));
 		}
@@ -73,6 +73,7 @@ public class MarioController : MonoBehaviour {
 	}
 	void OnCollisionEnter2D (Collision2D other) {
 		if (other.collider.tag == "Shroom" && Super.go == true) {
+			_GM.Super+=1;
 			if(this.gameObject.transform.localScale.x > 0){
 			this.gameObject.transform.localScale = new Vector2(6,6);
 			}

@@ -2,21 +2,18 @@
 using System.Collections;
 
 public class Shrom : MonoBehaviour {
-	// Use this for initialization
+	 //Use this for initialization
 	public Animator self;
 	public bool traff = false;
-	public bool surf = false;
+	public static bool surf = false;
 
 	void Start () {
-		self = gameObject.GetComponent<Animator> ();
+		self = this.gameObject.GetComponent<Animator> ();
 	}
-	// Update is called once per frame
+//	 Update is called once per frame
 	void Update () {
-		if (transform.position.x > 21.01 && transform.position.x > 5.100) {
-			surf = true;
-		}
 		if(GetComponent<Rigidbody2D>().velocity.x<1&&traff==false && surf == true){
-			self.enabled = false;
+	
 			GetComponent<Rigidbody2D>().AddForce(new Vector2(6, 0));
 		}
 		if(GetComponent<Rigidbody2D>().velocity.x>-1&&traff==true && surf == true){
@@ -24,9 +21,13 @@ public class Shrom : MonoBehaviour {
 		}
 	}
 	void OnCollisionEnter2D (Collision2D other) {
-		if(other.collider.tag == "Ror"){
-			traff=true;
+		if (other.collider.tag == "Ror") {
+			traff = true;
 		}
-		
+	}
+	void OnTriggerEnter2D(Collider2D other){
+			surf = true;
+		self.enabled = false;
+		Debug.Log ("Heyooo");
 	}
 }

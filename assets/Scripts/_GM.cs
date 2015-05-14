@@ -24,6 +24,7 @@ public class _GM : MonoBehaviour {
 			Lives++;
 			Coins=0;
 		}
+		Debug.Log (Super);
 		CoinsText.text = "X " + Coins.ToString ("00");
 		if(Time>0){
 			Time--;
