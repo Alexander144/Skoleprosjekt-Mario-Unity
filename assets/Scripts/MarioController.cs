@@ -4,6 +4,7 @@ using System.Collections;
 public class MarioController : MonoBehaviour {
 	public int speed;
 	public int jumpForce;
+	public static bool shoot = false;
 
 	private Rigidbody2D rb;
 
@@ -31,10 +32,17 @@ public class MarioController : MonoBehaviour {
 	}
 
 	void Update(){
-
 		if(grounded == true && Input.GetButtonDown("Jump")){
+			if(this.gameObject.transform.localScale.y == 6){
+				jumpForce = 30;
+			}
+			else{jumpForce = 20;}
 			anim.SetBool("isGrounded", false);
 			rb.velocity = (new Vector2(rb.velocity.x,jumpForce));
+		}
+
+		if(shoot == true){
+
 		}
 	}
 	
@@ -63,5 +71,24 @@ public class MarioController : MonoBehaviour {
 		transform.localScale = theScale;
 		transform.Translate (new Vector2(move,0));
 	}
-
+	void OnCollisionEnter2D (Collision2D other) {
+		if (other.collider.tag == "Shroom" && Super.go == true) {
+			if(this.gameObject.transform.localScale.x > 0){
+			this.gameObject.transform.localScale = new Vector2(6,6);
+			}
+			else{this.gameObject.transform.localScale = new Vector2(-6,6);}
+			_GM.Score+=500;
+			Destroy (other.gameObject);
+		}
+		if (other.collider.tag == "Flower") {
+			shoot=true;
+			Destroy (other.gameObject);
+			if(this.gameObject.transform.localScale.x > 0){
+				this.gameObject.transform.localScale = new Vector2(6,6);
+			}
+			else{this.gameObject.transform.localScale = new Vector2(-6,6);}
+			_GM.Score+=500;
+			Destroy (other.gameObject);
+		}
+	}
 }

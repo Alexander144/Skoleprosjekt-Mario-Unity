@@ -6,10 +6,10 @@ public class Shrom : MonoBehaviour {
 	public Animator self;
 	public bool traff = false;
 	public bool surf = false;
+
 	void Start () {
-		self = gameObject.GetComponent<Animator>();
+		self = gameObject.GetComponent<Animator> ();
 	}
-	
 	// Update is called once per frame
 	void Update () {
 		if (transform.position.x > 21.01 && transform.position.x > 5.100) {
