@@ -13,10 +13,11 @@ public class Coin : MonoBehaviour {
 		animate.SetFloat("start", 0);
 	}
 	void OnTriggerEnter2D (Collider2D other) {
-			_GM.Coins+=1;
-			_GM.Score+=200;
-		animate.SetFloat("start", 1);
-		Destroy (this.gameObject);
-			
+		if (other.tag == "Player") {
+			_GM.Coins += 1;
+			_GM.Score += 200;
+			animate.SetFloat ("start", 1);
+			Destroy (this.gameObject);
+		}
 	}
 }

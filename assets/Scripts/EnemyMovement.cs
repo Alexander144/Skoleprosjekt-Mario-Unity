@@ -4,12 +4,15 @@ using System.Collections;
 public class EnemyMovement : MonoBehaviour {
 	
 	public float moveSpeed;
-	public bool moveRight;
-
+	public bool moveLeft;
+	public Animator animate;
 	public Transform wallCheck;
 	public float wallCheckRadius;
 	public LayerMask whatIsWall;
 	private bool hittingWall;
+	public static bool check = false;
+	public static bool moveEnemy = false;
+	public static bool kill = false;
 	
 	void Start () {
 
@@ -20,15 +23,18 @@ public class EnemyMovement : MonoBehaviour {
 
 		hittingWall = Physics2D.OverlapCircle (wallCheck.position, wallCheckRadius, whatIsWall);
 
-		if (hittingWall)
-			moveRight = !moveRight;
-
-		if (moveRight) {
-			transform.localScale = new Vector3 (-1f, 1f, 1f);
+		if (hittingWall) {
+			moveLeft = !moveLeft;
+		}
+		if (moveLeft && check == true) {
+			transform.localScale = new Vector3 (-0.5f, 0.5f, 0.5f);
 			GetComponent<Rigidbody2D> ().velocity = new Vector2 (moveSpeed, GetComponent<Rigidbody2D> ().velocity.y);
 		} else {
-			transform.localScale = new Vector3 (1f, 1f, 1f);
+			if(check == true){
+				transform.localScale = new Vector3 (0.5f, 0.5f, 0.5f);
 			GetComponent<Rigidbody2D> ().velocity = new Vector2 (-moveSpeed, GetComponent<Rigidbody2D> ().velocity.y);
+			}
 		}
 	}
+
 }

@@ -5,6 +5,7 @@ public class MarioController : MonoBehaviour {
 	public int speed;
 	public int jumpForce;
 	public static bool shoot = false;
+	public Animator animate;
 
 	private Rigidbody2D rb;
 
@@ -92,6 +93,23 @@ public class MarioController : MonoBehaviour {
 			else{this.gameObject.transform.localScale = new Vector2(-6,6);}
 			_GM.Score+=500;
 			Destroy (other.gameObject);
+		}
+		if (other.collider.tag == "Gomba") {
+			Destroy(this.gameObject);
+		}
+	}
+	void OnTriggerEnter2D (Collider2D other) {
+		if(other.transform.name == "Move"){
+			animate.SetBool("Walk", true);
+			EnemyMovement.check = true;
+		}
+		if(other.gameObject.tag == "Gomba"){
+			Destroy(other.gameObject);
+			animate.SetBool("Stomped", true);
+		}
+		if(other.gameObject.tag == "Koopa"){
+			Destroy(other.gameObject);
+			animate.SetBool("Stomped", true);
 		}
 	}
 }
