@@ -28,5 +28,6 @@ public class Shrom : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other){
 			surf = true;
 		self.enabled = false;
+		GetComponent<Rigidbody2D> ().isKinematic = false;
 	}
 }

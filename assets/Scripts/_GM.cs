@@ -6,7 +6,7 @@ public class _GM : MonoBehaviour {
 	public static int Score;
 	public static int Coins;
 	public static int Time = 40000;
-	public static int Lives;
+	public static int Lives = 3;
 
 	public static int Super = 0;
 	public Text ScoreText;
@@ -33,5 +33,11 @@ public class _GM : MonoBehaviour {
 			Time--;
 		}
 		TimeText.text = "" + Time/100;
+	}
+	void OnCollisionEnter2D (Collision2D other) {
+		if (other.collider.tag == "Dead") {
+			Lives -= 1;
+			Debug.Log (Lives);
+		}
 	}
 }

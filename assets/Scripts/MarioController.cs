@@ -79,10 +79,12 @@ public class MarioController : MonoBehaviour {
 			}
 			else{this.gameObject.transform.localScale = new Vector2(-6,6);}
 			_GM.Score+=500;
+			Super.go = false;
 			Destroy (other.gameObject);
 		}
-		if (other.collider.tag == "Flower") {
+		if (other.collider.tag == "Flower" && Super.go == true) {
 			shoot=true;
+			Super.go = false;
 			Destroy (other.gameObject);
 			if(this.gameObject.transform.localScale.x > 0){
 				this.gameObject.transform.localScale = new Vector2(6,6);

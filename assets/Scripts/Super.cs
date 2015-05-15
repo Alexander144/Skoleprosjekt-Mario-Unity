@@ -19,6 +19,7 @@ public class Super : MonoBehaviour {
 			go = true;
 			shroms.SetFloat("mush", 3);
 		} else if(_GM.Super>=1){
+			go = true;
 			flower.SetFloat("super", 6);
 		}
 
