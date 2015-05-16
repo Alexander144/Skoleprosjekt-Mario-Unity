@@ -19,6 +19,7 @@ public class EnemyMovement : MonoBehaviour {
 	
 	
 	void Update () {
+		// Fiendene beveger seg, og vender om når de treffer en collider
 			hittingWall = Physics2D.OverlapCircle (wallCheck.position, wallCheckRadius, whatIsWall);
 			
 			if (hittingWall) {
@@ -33,4 +34,11 @@ public class EnemyMovement : MonoBehaviour {
 			}
 			animate.SetBool("Walk", true);
 		}
+
+	void OnCollisionEnter2D (Collision2D other) {
+		// Fiendene blir fjernet om de faller ut av banen
+		if (other.collider.tag == "Border") {
+			Destroy(this.gameObject);
+		}
 	}
+}

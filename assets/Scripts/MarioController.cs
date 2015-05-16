@@ -127,6 +127,10 @@ public class MarioController : MonoBehaviour {
 			Destroy(this.gameObject);
 			}
 		}
+		if (other.collider.tag == "Border") {
+			//Mario dør, her legger til avlsunting scenen eller mellom scenen
+			Destroy(this.gameObject);
+			}
 	}
 	void OnTriggerEnter2D (Collider2D other) {
 		if(other.gameObject.tag == "Gomba"){
