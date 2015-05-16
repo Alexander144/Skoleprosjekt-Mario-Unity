@@ -101,6 +101,7 @@ public class MarioController : MonoBehaviour {
 		}
 		if (other.collider.tag == "Gomba") {
 			//Lyd, Mario blir mindre
+			_GM.Super = 0;
 			if(this.gameObject.transform.localScale.y == 6){
 				if(this.gameObject.transform.localScale.x > 0){
 					this.gameObject.transform.localScale = new Vector2(4,4);
@@ -114,6 +115,7 @@ public class MarioController : MonoBehaviour {
 		}
 		if (other.collider.tag == "Koopa") {
 			//Lyd, Mario blir mindre
+			_GM.Super = 0;
 				if(this.gameObject.transform.localScale.y == 6){
 				if(this.gameObject.transform.localScale.x > 0){
 					this.gameObject.transform.localScale = new Vector2(4,4);
