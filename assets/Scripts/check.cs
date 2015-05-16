@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemymove : MonoBehaviour {
+public class check : MonoBehaviour {
+
 	// Use this for initialization
 	void Start () {
 	
@@ -12,7 +13,9 @@ public class Enemymove : MonoBehaviour {
 	
 	}
 	void OnTriggerEnter2D (Collider2D other) {
-		if(other.tag == "Player"){
+		if (other.gameObject.tag == "Player") {
+			Destroy(gameObject);
+			Debug.Log("je");
 		}
 	}
 }

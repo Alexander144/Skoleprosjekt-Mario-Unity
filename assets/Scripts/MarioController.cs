@@ -6,8 +6,9 @@ public class MarioController : MonoBehaviour {
 	public int jumpForce;
 	public static bool shoot = false;
 	public Animator animate;
-
+	public static GameObject startscript;
 	private Rigidbody2D rb;
+	public int check = 0;
 
 	private Animator anim;
 	bool facingRight = true;
@@ -41,7 +42,9 @@ public class MarioController : MonoBehaviour {
 			anim.SetBool("isGrounded", false);
 			rb.velocity = (new Vector2(rb.velocity.x,jumpForce));
 		}
-
+		if(grounded == true){
+			check=0;
+		}
 		if(shoot == true){
 
 		}
@@ -74,6 +77,7 @@ public class MarioController : MonoBehaviour {
 	}
 	void OnCollisionEnter2D (Collision2D other) {
 		if (other.collider.tag == "Shroom" && Super.go == true) {
+			//Får Soppen
 			_GM.Super+=1;
 			if(this.gameObject.transform.localScale.x > 0){
 			this.gameObject.transform.localScale = new Vector2(6,6);
@@ -84,6 +88,7 @@ public class MarioController : MonoBehaviour {
 			Destroy (other.gameObject);
 		}
 		if (other.collider.tag == "Flower" && Super.go == true) {
+			//Får blomsten
 			shoot=true;
 			Super.go = false;
 			Destroy (other.gameObject);
@@ -95,21 +100,48 @@ public class MarioController : MonoBehaviour {
 			Destroy (other.gameObject);
 		}
 		if (other.collider.tag == "Gomba") {
+			//Lyd, Mario blir mindre
+			if(this.gameObject.transform.localScale.y == 6){
+				if(this.gameObject.transform.localScale.x > 0){
+					this.gameObject.transform.localScale = new Vector2(4,4);
+				}
+				else{this.gameObject.transform.localScale = new Vector2(-4,4);}
+			}
+			else{
+				//Mario dør, her legger til avlsunting scenen eller mellom scenen
 			Destroy(this.gameObject);
+			}
+		}
+		if (other.collider.tag == "Koopa") {
+			//Lyd, Mario blir mindre
+				if(this.gameObject.transform.localScale.y == 6){
+				if(this.gameObject.transform.localScale.x > 0){
+					this.gameObject.transform.localScale = new Vector2(4,4);
+				}
+				else{this.gameObject.transform.localScale = new Vector2(-4,4);}
+			}
+			else{
+				//Mario dør, her legger til avlsunting scenen eller mellom scenen
+			Destroy(this.gameObject);
+			}
 		}
 	}
 	void OnTriggerEnter2D (Collider2D other) {
-		if(other.transform.name == "Move"){
-			animate.SetBool("Walk", true);
-			EnemyMovement.check = true;
-		}
 		if(other.gameObject.tag == "Gomba"){
+			//Dreper gompaen
+			this.gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 2000));
 			Destroy(other.gameObject);
-			animate.SetBool("Stomped", true);
+			if(grounded == false && check>0){
+				_GM.Score+=200;
+			}
+			else{_GM.Score+=100;}
+			check+=1;
 		}
 		if(other.gameObject.tag == "Koopa"){
+			//Dreper Koopa
+			animate.SetBool("StompedK", true);
+			this.gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 2000));
 			Destroy(other.gameObject);
-			animate.SetBool("Stomped", true);
 		}
 	}
 }
